@@ -9,7 +9,7 @@ This capstone project focuses on building an end-to-end data pipeline and intera
 The National League Baseball Dashboard is a lightweight, interactive web application built with Streamlit. It enables users to explore player and team performance trends over time through dynamic charts, filters, and heatmaps, all powered by a local SQLite database containing cleaned historical baseball data.
 
 #### Project Structure
-
+```
 CAPSTONE_BASEBALL_SCRAPER_CTD
 
 ├── 1.Web_Scraping/                     # Selenium script for scraping baseball data
@@ -41,6 +41,7 @@ CAPSTONE_BASEBALL_SCRAPER_CTD
 │
 ├── create_nl_db.py                     # Master script to load cleaned CSVs into the database
 └── README.md                           # Project overview and instructions
+```
 
 #### National League Baseball Data Pipeline & Analytics Platform — delivering historical and real-time insights
 - Home Run Dominance Across Eras
